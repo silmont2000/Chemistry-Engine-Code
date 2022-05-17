@@ -1,0 +1,47 @@
+[
+    {
+        "FuncName": "OnFire",
+        "PrevElementID": "-1",
+        "NextElementID": "0"
+    },
+    {
+        "FuncName": "OnIce",
+        "PrevElementID": "-1",
+        "NextElementID": "1"
+    },
+    {
+        "FuncName": "OnWater",
+        "PrevElementID": "-1",
+        "NextElementID": "2"
+    },
+    {
+        "FuncName": "OnIceFire",
+        "PrevElementID": "1",
+        "NextElementID": "0"
+    },
+    {
+        "FuncName": "OnWaterFire",
+        "PrevElementID": "2",
+        "NextElementID": "0"
+    },
+    {
+        "FuncName": "OnFireIce",
+        "PrevElementID": "0",
+        "NextElementID": "1"
+    },
+    {
+        "FuncName": "OnWaterIce",
+        "PrevElementID": "2",
+        "NextElementID": "1"
+    },
+    {
+        "FuncName": "OnFireWater",
+        "PrevElementID": "0",
+        "NextElementID": "2"
+    },
+    {
+        "FuncName": "OnIceWater",
+        "PrevElementID": "1",
+        "NextElementID": "2"
+    }
+]
